@@ -1,0 +1,12 @@
+# -*- mode: gitignore; -*-
+*~
+target/*
+incremental/*
+*/target/*
+*/*/target/*
+Cargo.lock
+log.txt
+out/*
+imgui.ini
+
+
