@@ -1,5 +1,8 @@
 # -*- mode: gitignore; -*-
 *~
+#~
+\#*#
+.#
 target/*
 incremental/*
 */target/*
